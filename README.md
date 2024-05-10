@@ -1,12 +1,11 @@
 # NumFOCUS Board Elections
 
-NumFOCUS has a Board of Directors who provide guidance, oversight, and support for various NumFOCUS-led initiatives. [^1]
+NumFOCUS has a Board of Directors who provide guidance, oversight, and support for various NumFOCUS-led initiatives.[^1]
 Board members have fixed term limits. As members complete their term or step-down, new members need to be elected to the board. Historically, there has not been a formal process for recruiting and admitting new board members.
 
 A [volunteer-led Election Committee](election-committee.md) has been formed to plan and execute board elections in a fair, unbiased, and transparent manner.
 
-[^1]:
-https://numfocus.medium.com/who-is-the-board-how-does-the-board-serve-numfocus-b109d0c0dd17
+[^1]: [Who is the board & how does the board serve NumFOCUS?](https://numfocus.medium.com/who-is-the-board-how-does-the-board-serve-numfocus-b109d0c0dd17)
 
 > [!NOTE]
 > This is the first NumFOCUS board election and the election committee is a newly formed team.
