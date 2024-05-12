@@ -1,11 +1,9 @@
 # NumFOCUS役員選挙
 
-<h4 align="center">
-    <p>
-        <a href="https://github.com/numfocus/elections/">English</a> |
-        <b>日本語</b> |
-    </p>
-</h4>
+<p>
+    <a href="https://github.com/numfocus/elections/">English</a> |
+    <b>日本語</b> |
+</p>
 
 NumFOCUSには理事会があり、NumFOCUS主導のさまざまな計画を指導、監督、支援しています。[^1]
 理事会メンバーには任期が定められています。
