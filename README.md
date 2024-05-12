@@ -1,5 +1,12 @@
 # NumFOCUS Board Elections
 
+<h4 align="center">
+    <p>
+        <b>English</b> |
+        <a href="https://github.com/numfocus/elections/blob/main/README_ja.md">日本語</a> |
+    </p>
+</h4>
+
 NumFOCUS has a Board of Directors who provide guidance, oversight, and support for various NumFOCUS-led initiatives.[^1]
 Board members have fixed term limits. As members complete their term or step-down, new members need to be elected to the board. Historically, there has not been a formal process for recruiting and admitting new board members.
 

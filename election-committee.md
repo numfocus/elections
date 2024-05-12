@@ -13,7 +13,7 @@ Community members can request access to join the Slack and weekly meetings by re
 
 * AJ Khan
 * Juanita Gomez
-* Lars Grüter
+* Lars Gr端ter
 * Pavithra Eswaramoorthy
 * Pramod Misra
 * Tetsuo Koyama
