@@ -21,8 +21,8 @@ A [volunteer-led Election Committee](election-committee.md) has been formed to p
 
 ### Open seats (needs conformation)
 
-* Technical Executive Committee - 5 positions
-* Administrative Board - 3 positions
+- Technical Executive Committee - 5 positions
+- Administrative Board - 3 positions
 
 <!-- TODO: One sentence overview of responsibilities for Technical Executive Committee and Administrative Board. This is a new change that the community won't be familiar with. -->
 
@@ -30,30 +30,30 @@ A [volunteer-led Election Committee](election-committee.md) has been formed to p
 
 The election process will involve the following board phases. The dates are tentative and are subject to change depending on the community engagement during nomination and voting phases.
 
-| Election phases | Tentative dates |
-| - | - |
-| Nomination period | May 20th - June 3rd |
-| Nominee application review (by election committee and NumFOCUS board) | June 3rd - June 17th |
-| Notify nominees and get confirmation | June 17th - June 24th |
-| Voting period| June 24th - July 8th |
-| Review election results (by  NumFOCUS board) | July 8th  - July 15th |
-| Publish results announcing new board members | mid-end July |
+| Election phases                                                       | Tentative dates       |
+| --------------------------------------------------------------------- | --------------------- |
+| Nomination period                                                     | May 20th - June 3rd   |
+| Nominee application review (by election committee and NumFOCUS board) | June 3rd - June 17th  |
+| Notify nominees and get confirmation                                  | June 17th - June 24th |
+| Voting period                                                         | June 24th - July 8th  |
+| Review election results (by NumFOCUS board)                           | July 8th - July 15th  |
+| Publish results announcing new board members                          | mid-end July          |
 
 ## Contents 🗂️
 
 This repository hosts documents related to NUmFOCUS board elections, and ongoing tasks & activities are tracked on the [issue tracker](https://github.com/numfocus/elections/issues).
 
-* [Election process](election-process.md) (coming soon)
-* [Board member responsibilities](board-responsibilities.md) (coming soon)
-* [Election committee details](election-committee.md)
-* [Frequently asked questions](faqs.md)
+- [Election process](election-process.md) (coming soon)
+- [Board member responsibilities](board-responsibilities.md) (coming soon)
+- [Election committee details](election-committee.md)
+- [Frequently asked questions](faqs.md)
 
 ## Reference documents 📑
 
 <!-- TODO: Add links -->
 
-* NumFOCUS Bylaws
-* Election Committee Charter
+- NumFOCUS Bylaws
+- Election Committee Charter
 
 <hr>
 
