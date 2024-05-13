@@ -6,7 +6,9 @@
 </p>
 
 NumFOCUS has a Board of Directors who provide guidance, oversight, and support for various NumFOCUS-led initiatives.[^1]
-Board members have fixed term limits. As members complete their term or step-down, new members need to be elected to the board. Historically, there has not been a formal process for recruiting and admitting new board members.
+Board members have fixed term limits.
+As members complete their term or step-down, new members need to be elected to the board.
+Historically, there has not been a formal process for recruiting and admitting new board members.
 
 A [volunteer-led Election Committee](election-committee.md) has been formed to plan and execute board elections in a fair, unbiased, and transparent manner.
 
@@ -15,7 +17,8 @@ A [volunteer-led Election Committee](election-committee.md) has been formed to p
 > [!NOTE]
 > This is the first NumFOCUS board election and the election committee is a newly formed team.
 > We’ll create and document the procedural details in this repository as we conduct the election.
-> You can track ongoing activities on the Issue Tracker, and share your thoughts. We’d love input from the community in all aspects of this election.
+> You can track ongoing activities on the Issue Tracker, and share your thoughts.
+> We’d love input from the community in all aspects of this election.
 
 ## Upcoming election 🗳️
 
@@ -28,7 +31,8 @@ A [volunteer-led Election Committee](election-committee.md) has been formed to p
 
 ### Process and timeline
 
-The election process will involve the following board phases. The dates are tentative and are subject to change depending on the community engagement during nomination and voting phases.
+The election process will involve the following phases.
+The dates are tentative and are subject to change depending on the community engagement during the nomination and voting phases.
 
 | Election phases                                                       | Tentative dates       |
 | --------------------------------------------------------------------- | --------------------- |
