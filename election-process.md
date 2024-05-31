@@ -3,7 +3,8 @@
 
 # Election process
 
-At a high-level, the elections will involve a nomination phase followed by voting. This page documents the details and processes of these stages.
+At a high-level, the elections will involve a nomination phase followed by voting.
+This page documents the details and processes of these stages.
 
 ## Communication
 
@@ -27,7 +28,8 @@ These messages will be published by NumFOCUS in the following spaces:
 Anyone can nominate themselves or someone else to run for one of the board positions,
 i.e., either the Administrative Board or the Technical Steering Committee, based on their experience and interest.
 
-We encourage nominations from people who care about open source software. This explicitly includes (but not limited to) people who associate with:
+We encourage nominations from people who care about open source software.
+This explicitly includes (but not limited to) people who associate with:
 
 - Software development
 - Community management
