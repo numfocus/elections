@@ -4,10 +4,10 @@
 
 1. Define the strategic direction
 2. Final approval of - Budgets/Quarterly Reports
-  a. Fiscal oversight and accountability
+   a. Fiscal oversight and accountability
 3. Legal issues
 4. Fundraising
-  a. Help develop and participate in a fundraising plan
+   a. Help develop and participate in a fundraising plan
 5. Risk Assessment
 6. Formation and oversight for relevant committees, including CoC working group and Election committee
 
