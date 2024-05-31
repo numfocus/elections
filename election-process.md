@@ -7,7 +7,8 @@ At a high-level, the elections will involve a nomination phase followed by votin
 
 ## Communication
 
-The GitHub repository will host all election-related documentation for the community, including the processes, nomination/voting criteria, election results, committee workflows, etc. The Election Committee will coordinate tasks through issues on the GitHub repos, where any community member can share feedback and request any additional information.
+The GitHub repository will host all election-related documentation for the community, including the processes, nomination/voting criteria, election results, committee workflows, etc.
+The Election Committee will coordinate tasks through issues on the GitHub repos, where any community member can share feedback and request any additional information.
 
 The committee will draft messages to communicate the call for nominations, voting periods, and more, to reach the broader community.
 
@@ -23,7 +24,8 @@ These messages will be published by NumFOCUS in the following spaces:
 
 ### Solicit nominees
 
-Anyone can nominate themselves or someone else to run for one of the board positions, i.e., either the Administrative Board or the Technical Steering Committee, based on their experience and interest.
+Anyone can nominate themselves or someone else to run for one of the board positions,
+i.e., either the Administrative Board or the Technical Steering Committee, based on their experience and interest.
 
 We encourage nominations from people who care about open source software. This explicitly includes (but not limited to) people who associate with:
 - Software development
