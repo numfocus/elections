@@ -7,4 +7,5 @@ Communications that need to reach the wide community will be shared on the NumFO
 This GitHub repository and issue tracker will have all real-time activities.
 
 ## Can Election Committee members also nominate themselves?
+
 Yes they can.
