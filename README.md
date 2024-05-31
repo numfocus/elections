@@ -27,7 +27,7 @@ A [volunteer-led Election Committee](election-committee.md) has been formed to p
 Board of Directors - 4 positions
 Technical Steering Committee - 7 positions
 
-The Board of Directors and the Technical Steering Committee are positions of authority, the formed group deals with higher-level strategic and administrative tasks while the latter deals with more hands-on day-to-day technical decisions.
+The Board of Directors and the Technical Steering Committee are positions of authority, the former group deals with higher-level strategic and administrative tasks while the latter deals with more hands-on day-to-day technical decisions.
 
 ### Process and timeline
 
