@@ -34,14 +34,14 @@ The Board of Directors and the Technical Steering Committee are positions of aut
 The election process will involve the following phases.
 The dates are tentative and are subject to change depending on the community engagement during the nomination and voting phases.
 
-| Election phases                                                       | Tentative dates       |
-| --------------------------------------------------------------------- | --------------------- |
-| Nomination period                                                     | June 3rd - June 17th  |
-| Nominee application review (by election committee and NumFOCUS board) | June 17th - June 24th |
-| Notify nominees and get confirmation                                  | June 24th - July 8th  |
-| Voting period                                                         | July 8th - July 15th  |
-| Review election results (by NumFOCUS board)                           | July 15th - July 29th |
-| Publish results announcing new board members                          | mid-end July          |
+| Election phases                                                       | Tentative dates               |
+| --------------------------------------------------------------------- | ----------------------------- |
+| Nomination period                                                     | June 7–June 28                |
+| Nominee application review (by election committee and NumFOCUS board) | June 28–July 12               |
+| Notify nominees and get confirmation                                  | July 12–July 26               |
+| Voting period                                                         | July 26–Aug 9                 |
+| Review election results (by NumFOCUS board)                           | Aug 9–Aug 23                  |
+| Publish results announcing new board members                          | Late August / Early September |
 
 ## Contents 🗂️
 
