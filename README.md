@@ -55,7 +55,7 @@ This repository hosts documents related to NUmFOCUS board elections, and ongoing
 ## Reference documents 📑
 
 - [NumFOCUS Bylaws](https://numfocus.org/wp-content/uploads/2020/04/NumFOCUS-Bylaws-Approved-16-May-2019.pdf)
-- Election Committee Charter (link will be added soon)
+- [Election Committee Charter](https://docs.google.com/document/d/1c8snA2_CtJcJew0S0l4gxdpj2OXpQQkJ_j3l2kI2fDs/edit?usp=sharing)
 
 <hr>
 
