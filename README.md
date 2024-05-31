@@ -1,4 +1,4 @@
-# NumFOCUS Board Elections
+# NumFOCUS Board of Directors & Technical Steering Committee Elections
 
 <p>
     <b>English</b> |
@@ -10,7 +10,7 @@ Members of these groups have fixed term limits.
 As members complete their term or step-down, new members need to be elected to the board.
 Historically, there has not been a formal process for recruiting and admitting new board members.
 
-A [volunteer-led Election Committee](election-committee.md) has been formed to plan and execute Board of Directors and a Technical Steering Committee elections in a fair, unbiased, and transparent manner.
+A [volunteer-led Election Committee](election-committee.md) has been formed to plan and execute elections for the Board of Directors and Technical Steering Committee in a fair, unbiased, and transparent manner.
 
 [^1]: [Who is the board & how does the board serve NumFOCUS?](https://numfocus.medium.com/who-is-the-board-how-does-the-board-serve-numfocus-b109d0c0dd17)
 
@@ -22,12 +22,13 @@ A [volunteer-led Election Committee](election-committee.md) has been formed to p
 
 ## Upcoming election 🗳️
 
-### Open seats (needs conformation)
+### Open seats
 
-Board of Directors - 4 positions
-Technical Steering Committee - 7 positions
+- Board of Directors - 4 positions
+- Technical Steering Committee - 7 positions
 
-The Board of Directors and the Technical Steering Committee are positions of authority, the former group deals with higher-level strategic and administrative tasks while the latter deals with more hands-on day-to-day technical decisions.
+The Board of Directors and the Technical Steering Committee are positions of authority.
+The former group deals with higher-level strategic and administrative decisions, while the latter deals with more hands-on day-to-day technical decisions.
 
 ### Process and timeline
 
@@ -47,8 +48,8 @@ The dates are tentative and are subject to change depending on the community eng
 
 This repository hosts documents related to NUmFOCUS board elections, and ongoing tasks & activities are tracked on the [issue tracker](https://github.com/numfocus/elections/issues).
 
-- [Election process](election-process.md) (coming soon)
-- [Board member responsibilities](board-responsibilities.md) (coming soon)
+- [Election process](election-process.md)
+- [Board member responsibilities](board-responsibilities.md)
 - [Election committee details](election-committee.md)
 - [Frequently asked questions](faqs.md)
 
