@@ -6,7 +6,8 @@
 </p>
 
 NumFOCUS has a Board of Directors and a Technical Steering Committee who provide guidance, oversight, and support for various NumFOCUS-led initiatives. [^1]
-Members of these groups have fixed term limits. As members complete their term or step-down, new members need to be elected to the board.
+Members of these groups have fixed term limits.
+As members complete their term or step-down, new members need to be elected to the board.
 Historically, there has not been a formal process for recruiting and admitting new board members.
 
 A [volunteer-led Election Committee](election-committee.md) has been formed to plan and execute Board of Directors and a Technical Steering Committee elections in a fair, unbiased, and transparent manner.
