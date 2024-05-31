@@ -14,7 +14,6 @@ Community members can request access to join the Slack and weekly meetings by re
 - Juanita Gomez
 - Lars Grüter
 - Pavithra Eswaramoorthy
-- Pramod Misra
 - Tetsuo Koyama
 
 ## Advising members
@@ -28,3 +27,4 @@ Community members can request access to join the Slack and weekly meetings by re
 - Jelena Milosevic
 - Matthew Rocklin
 - Paul Ivanov
+- Pramod Misra
