@@ -1,5 +1,8 @@
 ## Responsibilities of Board of Directors and Technical Steering Committee
 
+> [!WARNING]
+> In development, more details will be added soon.
+
 ## Board of Directors - Administrative or Executive Branch
 
 1. Define the strategic direction
@@ -11,7 +14,7 @@
 5. Risk Assessment
 6. Formation and oversight for relevant committees, including CoC working group and Election committee
 
-_Meetings held **quarterly** via Zoom. Directors not holding an office should plan on 5 hrs/month._
+_Virtual meetings held **quarterly**. Directors not holding an office should plan on 5 hrs/month._
 
 ## Technical Steering Committee
 
@@ -20,4 +23,4 @@ _Meetings held **quarterly** via Zoom. Directors not holding an office should pl
 3. Ensure the creation and curation of technical blogs and content from the project community
 4. Support internal programs through technical support and insight on an as-needed basis
 
-_Meetings held monthly via Zoom. Members should plan on 5 hrs/month._
+_Virtual meetings held **monthly**. Members should plan on 5 hrs/month._
