@@ -5,12 +5,10 @@
     <a href="https://github.com/numfocus/elections/blob/main/README_ja.md">日本語</a> |
 </p>
 
-NumFOCUS has a Board of Directors who provide guidance, oversight, and support for various NumFOCUS-led initiatives.[^1]
-Board members have fixed term limits.
-As members complete their term or step-down, new members need to be elected to the board.
-Historically, there has not been a formal process for recruiting and admitting new board members.
+NumFOCUS has a Board of Directors and a Technical Steering Committee who provide guidance, oversight, and support for various NumFOCUS-led initiatives. [^1]
+Members of these groups have fixed term limits. As members complete their term or step-down, new members need to be elected to the board. Historically, there has not been a formal process for recruiting and admitting new board members.
 
-A [volunteer-led Election Committee](election-committee.md) has been formed to plan and execute board elections in a fair, unbiased, and transparent manner.
+A [volunteer-led Election Committee](election-committee.md) has been formed to plan and execute  Board of Directors and a Technical Steering Committee elections in a fair, unbiased, and transparent manner.
 
 [^1]: [Who is the board & how does the board serve NumFOCUS?](https://numfocus.medium.com/who-is-the-board-how-does-the-board-serve-numfocus-b109d0c0dd17)
 
@@ -24,10 +22,11 @@ A [volunteer-led Election Committee](election-committee.md) has been formed to p
 
 ### Open seats (needs conformation)
 
-- Technical Executive Committee - 5 positions
-- Administrative Board - 3 positions
+Board of Directors  - 4 positions
+Technical Steering Committee - 7 positions
 
-<!-- TODO: One sentence overview of responsibilities for Technical Executive Committee and Administrative Board. This is a new change that the community won't be familiar with. -->
+The Board of Directors and the Technical Steering Committee are positions of authority, the formed group deals with higher-level strategic and administrative tasks while the latter deals with more hands-on day-to-day technical decisions.
+Process and timeline
 
 ### Process and timeline
 
@@ -36,11 +35,11 @@ The dates are tentative and are subject to change depending on the community eng
 
 | Election phases                                                       | Tentative dates       |
 | --------------------------------------------------------------------- | --------------------- |
-| Nomination period                                                     | May 20th - June 3rd   |
-| Nominee application review (by election committee and NumFOCUS board) | June 3rd - June 17th  |
-| Notify nominees and get confirmation                                  | June 17th - June 24th |
-| Voting period                                                         | June 24th - July 8th  |
-| Review election results (by NumFOCUS board)                           | July 8th - July 15th  |
+| Nomination period                                                     | June 3rd - June 17th   |
+| Nominee application review (by election committee and NumFOCUS board) | June 17th - June 24th  |
+| Notify nominees and get confirmation                                  | June 24th - July 8th |
+| Voting period                                                         | July 8th  - July 15th  |
+| Review election results (by NumFOCUS board)                           | July 15th  - July 29th  |
 | Publish results announcing new board members                          | mid-end July          |
 
 ## Contents 🗂️
@@ -54,10 +53,8 @@ This repository hosts documents related to NUmFOCUS board elections, and ongoing
 
 ## Reference documents 📑
 
-<!-- TODO: Add links -->
-
-- NumFOCUS Bylaws
-- Election Committee Charter
+- [NumFOCUS Bylaws](https://numfocus.org/wp-content/uploads/2020/04/NumFOCUS-Bylaws-Approved-16-May-2019.pdf)
+- [Election Committee Charter]
 
 <hr>
 
