@@ -58,4 +58,4 @@ This repository hosts documents related to NUmFOCUS board elections, and ongoing
 
 <hr>
 
-_If you are interested in **joining the election committee** and have at least 2 hours/week to dedicate to this effort for a few months, please reach out to any of the committee members. Note that all community members can share feedback and thoughts on the activities. The committee is responsible for executing the election, which requires some steady time commitment._
+_If you are interested in **joining the election committee** and have at least 2 hours/week to dedicate to this effort for a few months, please reach out to the team at electioncommittee@numfocus.org. Note that all community members can share feedback and thoughts on the activities. The committee is responsible for executing the election, which requires some steady time commitment._
