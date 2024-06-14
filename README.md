@@ -5,7 +5,7 @@
     <a href="https://github.com/numfocus/elections/blob/main/README_ja.md">日本語</a> |
 </p>
 
-NumFOCUS has a Board of Directors and a Technical Steering Committee who provide guidance, oversight, and support for various NumFOCUS-led initiatives. [^1]
+NumFOCUS has a Board of Directors (composed of an Administrative Board and a Technical Steering Committee) who provide guidance, oversight, and support for various NumFOCUS-led initiatives. [^1]
 Members of these groups have fixed term limits.
 As members complete their term or step-down, new members need to be elected to the board.
 Historically, there has not been a formal process for recruiting and admitting new board members.
@@ -24,10 +24,10 @@ A [volunteer-led Election Committee](election-committee.md) has been formed to p
 
 ### Open seats
 
-- Board of Directors - 4 positions
+- Administrative Board - 4 positions
 - Technical Steering Committee - 7 positions
 
-The Board of Directors and the Technical Steering Committee are positions of authority.
+The NumFOCUS governing Board consists of an Administrative Board and a Technical Steering Committee.
 The former group deals with higher-level strategic and administrative decisions, while the latter deals with more hands-on day-to-day technical decisions.
 
 ### Process and timeline
@@ -37,7 +37,7 @@ The dates are tentative and are subject to change depending on the community eng
 
 | Election phases                                                       | Tentative dates               |
 | --------------------------------------------------------------------- | ----------------------------- |
-| Nomination period                                                     | June 7–June 28                |
+| Nomination period                                                     | June 14–June 28               |
 | Nominee application review (by election committee and NumFOCUS board) | June 28–July 12               |
 | Notify nominees and get confirmation                                  | July 12–July 26               |
 | Voting period                                                         | July 26–Aug 9                 |
