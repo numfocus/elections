@@ -26,23 +26,17 @@ These messages will be published by NumFOCUS in the following spaces:
 ### Solicit nominees
 
 Anyone can nominate themselves or someone else to run for one of the board positions,
-i.e., either the Administrative Board or the Technical Steering Committee, based on their experience and interest.
+i.e., either the Administrative Board or the Technical Steering Committee, based on their experience and interest by [filling the nomination form][nomination-form].
 
-We encourage nominations from people who care about open source software.
-This explicitly includes (but not limited to) people who associate with:
+We welcome and encourage participation from people of all backgrounds, identities, and geographic diversity.
 
-- Software development
-- Community management
-- Technical writing
-- Science and research
-- Legal industry
-- Financial industry
+Nominees for the **Technical Steering Committee** should be contributors or members of a NumFOCUS Sponsored or Affiliated Project community. They should have experience in areas such as governance or community leadership, budget creation and management, infrastructure, and strategic planning.
 
-Use the nomination form (link) to indicate your nomination: <LINK TO FORM>
+Nominees for the **Administrative Board** should be members of the NumFOCUS community with experience in one or more of the following areas: organizational or corporate finance, strategic planning, legal oversight, or marketing and sales.
 
 ### Review nominees
 
-The Election committee will screen nominees according to the following criteria:
+The Election committee will review and confirm nominees according to the following criteria:
 
 - Past actions should not go against NumFocus’s Code of Conduct
 - Minimum legal age in the residing county
@@ -60,6 +54,8 @@ After screening, the election committee will publish the list of nominees and an
 
 ### Voting members
 
+Tentative:
+
 - NumFOCUS member projects: 3 votes (vote allocation is up to the project)
 - NumFOCUS affiliated projects: 1 vote
 - NumFOCUS committee officers: 1 vote
@@ -69,8 +65,15 @@ After screening, the election committee will publish the list of nominees and an
 
 ### Voting tools
 
+We plan to use [OpaVote][opavote].
+
 (More details will be added soon)
 
 ## Results
 
 (More details will be added soon)
+
+<!-- Links -->
+
+[nomination-form]: https://forms.gle/zNYGSYpoGQPZgQTZ8
+[opavote]: https://opavote.com
