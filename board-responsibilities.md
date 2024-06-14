@@ -7,7 +7,8 @@ This document broadly lists the responsibilities of each group.
 
 ## Administrative Board of Directors
 
-The formal duties of are listed in [the NumFOCUS Bylaws, Article 3 Section 4][nf-bylaws]. Additionally, Board members perform the following activities:
+The formal duties of are listed in [the NumFOCUS Bylaws, Article 3 Section 4][nf-bylaws].
+Additionally, Board members perform the following activities:
 
 1. Define strategic direction for NumFOCUS
 2. Provide fiscal oversight and accountability
@@ -34,7 +35,8 @@ _Virtual meetings held **quarterly**. Directors not holding an office should pla
 5. Participate in fundraising efforts
 6. Ensure the creation and curation of technical blogs and content from the project community.
 7. Support internal programs through technical support and insight on an as-needed basis
-8. Elect 1 member of the Administrative Board from the Technical Steering Committee. This individual will attend and have voting privileges for both groups.
+8. Elect 1 member of the Administrative Board from the Technical Steering Committee.
+   This individual will attend and have voting privileges for both groups.
 
 _Virtual meetings held **monthly**. Members should plan on 5 hrs/month._
 

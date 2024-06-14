@@ -30,7 +30,8 @@ i.e., either the Administrative Board or the Technical Steering Committee, based
 
 We welcome and encourage participation from people of all backgrounds, identities, and geographic diversity.
 
-Nominees for the **Technical Steering Committee** should be contributors or members of a NumFOCUS Sponsored or Affiliated Project community. They should have experience in areas such as governance or community leadership, budget creation and management, infrastructure, and strategic planning.
+Nominees for the **Technical Steering Committee** should be contributors or members of a NumFOCUS Sponsored or Affiliated Project community.
+They should have experience in areas such as governance or community leadership, budget creation and management, infrastructure, and strategic planning.
 
 Nominees for the **Administrative Board** should be members of the NumFOCUS community with experience in one or more of the following areas: organizational or corporate finance, strategic planning, legal oversight, or marketing and sales.
 
