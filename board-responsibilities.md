@@ -1,11 +1,11 @@
-## Responsibilities of Administrative Board of Directors and Technical Steering Committee
+## Responsibilities of NumFOCUS Board of Directors and Technical Steering Committee
 
-NumFOCUS is governed by an Administrative Board of Directors and a Technical Steering Committee.
+NumFOCUS is governed by an Administrative Board and a Technical Steering Committee.
 The former group deals with higher-level strategic and administrative decisions, while the latter deals with more hands-on day-to-day technical decisions.
 
 This document broadly lists the responsibilities of each group.
 
-## Administrative Board of Directors
+## Administrative Board
 
 The formal duties of are listed in [the NumFOCUS Bylaws, Article 3 Section 4][nf-bylaws].
 Additionally, Board members perform the following activities:
