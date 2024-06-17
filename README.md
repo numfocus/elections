@@ -24,7 +24,7 @@ A [volunteer-led Election Committee](election-committee.md) has been formed to p
 
 ### Open seats
 
-- Administrative Board - 4 positions
+- Administrative Board - 3 positions
 - Technical Steering Committee - 7 positions
 
 The NumFOCUS governing Board consists of an Administrative Board and a Technical Steering Committee.
