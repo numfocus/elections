@@ -37,8 +37,8 @@ The dates are tentative and are subject to change depending on the community eng
 
 | Election phases                                                       | Tentative dates               |
 | --------------------------------------------------------------------- | ----------------------------- |
-| Nomination period                                                     | June 14–June 28               |
-| Nominee application review (by election committee and NumFOCUS board) | June 28–July 12               |
+| Nomination period                                                     | June 14–July 5                |
+| Nominee application review (by election committee and NumFOCUS board) | July 5–July 12                |
 | Notify nominees and get confirmation                                  | July 12–July 26               |
 | Voting period                                                         | July 26–Aug 9                 |
 | Review election results (by NumFOCUS board)                           | Aug 9–Aug 23                  |
@@ -46,7 +46,7 @@ The dates are tentative and are subject to change depending on the community eng
 
 ## Contents 🗂️
 
-This repository hosts documents related to NUmFOCUS board elections, and ongoing tasks & activities are tracked on the [issue tracker](https://github.com/numfocus/elections/issues).
+This repository hosts documents related to NumFOCUS board elections, and ongoing tasks & activities are tracked on the [issue tracker](https://github.com/numfocus/elections/issues).
 
 - [Election process](election-process.md)
 - [Board member responsibilities](board-responsibilities.md)
