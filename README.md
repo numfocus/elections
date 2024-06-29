@@ -2,7 +2,7 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
@@ -85,6 +85,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/juanis2112"><img src="https://avatars.githubusercontent.com/u/18587879?v=4?s=100" width="100px;" alt="Juanita Gomez"/><br /><sub><b>Juanita Gomez</b></sub></a><br /><a href="#ideas-juanis2112" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://grueter.dev"><img src="https://avatars.githubusercontent.com/u/20140352?v=4?s=100" width="100px;" alt="Lars Grüter"/><br /><sub><b>Lars Grüter</b></sub></a><br /><a href="#ideas-lagru" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://pirsquared.org"><img src="https://avatars.githubusercontent.com/u/118211?v=4?s=100" width="100px;" alt="Paul Ivanov"/><br /><sub><b>Paul Ivanov</b></sub></a><br /><a href="#ideas-ivanov" title="Ideas, Planning, & Feedback">🤔</a> <a href="#blog-ivanov" title="Blogposts">📝</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/aterrel"><img src="https://avatars.githubusercontent.com/u/30583?v=4?s=100" width="100px;" alt="Andy R. Terrel"/><br /><sub><b>Andy R. Terrel</b></sub></a><br /><a href="#ideas-aterrel" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>
