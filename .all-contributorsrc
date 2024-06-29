@@ -44,6 +44,15 @@
         "mentoring",
         "projectManagement"
       ]
+    },
+    {
+      "login": "juanis2112",
+      "name": "Juanita Gomez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18587879?v=4",
+      "profile": "https://github.com/juanis2112",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
