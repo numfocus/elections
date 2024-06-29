@@ -44,6 +44,15 @@
         "mentoring",
         "projectManagement"
       ]
+    },
+    {
+      "login": "lagru",
+      "name": "Lars Grüter",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20140352?v=4",
+      "profile": "https://grueter.dev",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
