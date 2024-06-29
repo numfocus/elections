@@ -34,6 +34,16 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "lsilen",
+      "name": "Leah Silen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5377495?v=4",
+      "profile": "https://github.com/lsilen",
+      "contributions": [
+        "mentoring",
+        "projectManagement"
+      ]
     }
   ],
   "contributorsPerLine": 7,
