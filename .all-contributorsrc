@@ -25,6 +25,15 @@
         "maintenance",
         "translation"
       ]
+    },
+    {
+      "login": "mrocklin",
+      "name": "Matthew Rocklin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/306380?v=4",
+      "profile": "https://matthewrocklin.com",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
