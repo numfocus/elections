@@ -1,9 +1,7 @@
 # NumFOCUS Board of Directors & Technical Steering Committee Elections
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
-
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <p>
@@ -80,6 +78,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://pavithraes.me"><img src="https://avatars.githubusercontent.com/u/33131404?v=4?s=100" width="100px;" alt="Pavithra Eswaramoorthy"/><br /><sub><b>Pavithra Eswaramoorthy</b></sub></a><br /><a href="https://github.com/numfocus/elections/commits?author=pavithraes" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/tkoyama010"><img src="https://avatars.githubusercontent.com/u/7513610?v=4?s=100" width="100px;" alt="Tetsuo Koyama"/><br /><sub><b>Tetsuo Koyama</b></sub></a><br /><a href="#maintenance-tkoyama010" title="Maintenance">🚧</a> <a href="#translation-tkoyama010" title="Translation">🌍</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://matthewrocklin.com"><img src="https://avatars.githubusercontent.com/u/306380?v=4?s=100" width="100px;" alt="Matthew Rocklin"/><br /><sub><b>Matthew Rocklin</b></sub></a><br /><a href="#ideas-mrocklin" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>
