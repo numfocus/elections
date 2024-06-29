@@ -74,6 +74,15 @@
         "ideas",
         "blog"
       ]
+    },
+    {
+      "login": "aterrel",
+      "name": "Andy R. Terrel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30583?v=4",
+      "profile": "https://github.com/aterrel",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
