@@ -1,5 +1,11 @@
 # NumFOCUS Board of Directors & Technical Steering Committee Elections
 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 <p>
     <b>English</b> |
     <a href="https://github.com/numfocus/elections/blob/main/README_ja.md">日本語</a> |
@@ -61,3 +67,25 @@ This repository hosts documents related to NumFOCUS board elections, and ongoing
 <hr>
 
 _If you are interested in **joining the election committee** and have at least 2 hours/week to dedicate to this effort for a few months, please reach out to the team at electioncommittee@numfocus.org. Note that all community members can share feedback and thoughts on the activities. The committee is responsible for executing the election, which requires some steady time commitment._
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://pavithraes.me"><img src="https://avatars.githubusercontent.com/u/33131404?v=4?s=100" width="100px;" alt="Pavithra Eswaramoorthy"/><br /><sub><b>Pavithra Eswaramoorthy</b></sub></a><br /><a href="https://github.com/numfocus/elections/commits?author=pavithraes" title="Documentation">📖</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
