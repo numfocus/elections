@@ -90,7 +90,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/aterrel"><img src="https://avatars.githubusercontent.com/u/30583?v=4?s=100" width="100px;" alt="Andy R. Terrel"/><br /><sub><b>Andy R. Terrel</b></sub></a><br /><a href="#ideas-aterrel" title="Ideas, Planning, & Feedback">🤔</a> <a href="#blog-aterrel" title="Blogposts">📝</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://talks.dutc.io"><img src="https://avatars.githubusercontent.com/u/3922744?v=4?s=100" width="100px;" alt="James Powell"/><br /><sub><b>James Powell</b></sub></a><br /><a href="#mentoring-dutc" title="Mentoring">🧑‍🏫</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://quantstack.net"><img src="https://avatars.githubusercontent.com/u/2397974?v=4?s=100" width="100px;" alt="Sylvain Corlay"/><br /><sub><b>Sylvain Corlay</b></sub></a><br /><a href="#ideas-SylvainCorlay" title="Ideas, Planning, & Feedback">🤔</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://quantstack.net"><img src="https://avatars.githubusercontent.com/u/2397974?v=4?s=100" width="100px;" alt="Sylvain Corlay"/><br /><sub><b>Sylvain Corlay</b></sub></a><br /><a href="#ideas-SylvainCorlay" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jaspajjr"><img src="https://avatars.githubusercontent.com/u/5813503?v=4?s=100" width="100px;" alt="John Carney"/><br /><sub><b>John Carney</b></sub></a><br /><a href="#ideas-jaspajjr" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>
