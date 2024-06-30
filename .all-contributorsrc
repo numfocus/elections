@@ -97,10 +97,19 @@
       ]
     },
     {
-      "login": "jaspajjr",
-      "name": "John Carney",
-      "avatar_url": "https://avatars.githubusercontent.com/u/5813503?v=4",
-      "profile": "https://github.com/jaspajjr",
+      "login": "SylvainCorlay",
+      "name": "Sylvain Corlay",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2397974?v=4",
+      "profile": "https://quantstack.net",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "SylvainCorlay",
+      "name": "Sylvain Corlay",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2397974?v=4",
+      "profile": "https://quantstack.net",
       "contributions": [
         "ideas"
       ]
