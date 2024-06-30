@@ -85,6 +85,15 @@
         "ideas",
         "blog"
       ]
+    },
+    {
+      "login": "dutc",
+      "name": "James Powell",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3922744?v=4",
+      "profile": "http://talks.dutc.io",
+      "contributions": [
+        "mentoring"
+      ]
     }
   ],
   "contributorsPerLine": 7,
