@@ -1,9 +1,7 @@
 # NumFOCUS Board of Directors & Technical Steering Committee Elections
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
-
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <p>
@@ -79,7 +77,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://pavithraes.me"><img src="https://avatars.githubusercontent.com/u/33131404?v=4?s=100" width="100px;" alt="Pavithra Eswaramoorthy"/><br /><sub><b>Pavithra Eswaramoorthy</b></sub></a><br /><a href="https://github.com/numfocus/elections/commits?author=pavithraes" title="Documentation">📖</a> <a href="#ideas-pavithraes" title="Ideas, Planning, & Feedback">🤔</a> <a href="#question-pavithraes" title="Answering Questions">💬</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/tkoyama010"><img src="https://avatars.githubusercontent.com/u/7513610?v=4?s=100" width="100px;" alt="Tetsuo Koyama"/><br /><sub><b>Tetsuo Koyama</b></sub></a><br /><a href="#maintenance-tkoyama010" title="Maintenance">🚧</a> <a href="#translation-tkoyama010" title="Translation">🌍</a> <a href="#question-tkoyama010" title="Answering Questions">💬</a> <a href="https://github.com/numfocus/elections/pulls?q=is%3Apr+reviewed-by%3Atkoyama010" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/tkoyama010"><img src="https://avatars.githubusercontent.com/u/7513610?v=4?s=100" width="100px;" alt="Tetsuo Koyama"/><br /><sub><b>Tetsuo Koyama</b></sub></a><br /><a href="#maintenance-tkoyama010" title="Maintenance">🚧</a> <a href="#translation-tkoyama010" title="Translation">🌍</a> <a href="#question-tkoyama010" title="Answering Questions">💬</a> <a href="https://github.com/numfocus/elections/pulls?q=is%3Apr+reviewed-by%3Atkoyama010" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/numfocus/elections/commits?author=tkoyama010" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://matthewrocklin.com"><img src="https://avatars.githubusercontent.com/u/306380?v=4?s=100" width="100px;" alt="Matthew Rocklin"/><br /><sub><b>Matthew Rocklin</b></sub></a><br /><a href="#ideas-mrocklin" title="Ideas, Planning, & Feedback">🤔</a> <a href="#question-mrocklin" title="Answering Questions">💬</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/lsilen"><img src="https://avatars.githubusercontent.com/u/5377495?v=4?s=100" width="100px;" alt="Leah Silen"/><br /><sub><b>Leah Silen</b></sub></a><br /><a href="#mentoring-lsilen" title="Mentoring">🧑‍🏫</a> <a href="#projectManagement-lsilen" title="Project Management">📆</a> <a href="https://github.com/numfocus/elections/pulls?q=is%3Apr+reviewed-by%3Alsilen" title="Reviewed Pull Requests">👀</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/juanis2112"><img src="https://avatars.githubusercontent.com/u/18587879?v=4?s=100" width="100px;" alt="Juanita Gomez"/><br /><sub><b>Juanita Gomez</b></sub></a><br /><a href="#ideas-juanis2112" title="Ideas, Planning, & Feedback">🤔</a></td>
@@ -90,7 +88,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/aterrel"><img src="https://avatars.githubusercontent.com/u/30583?v=4?s=100" width="100px;" alt="Andy R. Terrel"/><br /><sub><b>Andy R. Terrel</b></sub></a><br /><a href="#ideas-aterrel" title="Ideas, Planning, & Feedback">🤔</a> <a href="#blog-aterrel" title="Blogposts">📝</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://talks.dutc.io"><img src="https://avatars.githubusercontent.com/u/3922744?v=4?s=100" width="100px;" alt="James Powell"/><br /><sub><b>James Powell</b></sub></a><br /><a href="#mentoring-dutc" title="Mentoring">🧑‍🏫</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://quantstack.net"><img src="https://avatars.githubusercontent.com/u/2397974?v=4?s=100" width="100px;" alt="Sylvain Corlay"/><br /><sub><b>Sylvain Corlay</b></sub></a><br /><a href="#ideas-SylvainCorlay" title="Ideas, Planning, & Feedback">🤔</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jaspajjr"><img src="https://avatars.githubusercontent.com/u/5813503?v=4?s=100" width="100px;" alt="John Carney"/><br /><sub><b>John Carney</b></sub></a><br /><a href="#ideas-jaspajjr" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://quantstack.net"><img src="https://avatars.githubusercontent.com/u/2397974?v=4?s=100" width="100px;" alt="Sylvain Corlay"/><br /><sub><b>Sylvain Corlay</b></sub></a><br /><a href="#ideas-SylvainCorlay" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>
