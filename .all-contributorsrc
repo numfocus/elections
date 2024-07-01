@@ -15,7 +15,9 @@
       "contributions": [
         "doc",
         "ideas",
-        "question"
+        "question",
+        "review",
+        "maintenance"
       ]
     },
     {
@@ -28,7 +30,8 @@
         "translation",
         "question",
         "review",
-        "doc"
+        "doc",
+        "ideas"
       ]
     },
     {
