@@ -10,7 +10,6 @@ NumFOCUS Slack と週次ミーティングへのアクセスを希望するコ�
 
 ## 現在のメンバー
 
-- AJ Khan
 - Juanita Gomez
 - Lars Grüter
 - Pavithra Eswaramoorthy
