@@ -23,6 +23,7 @@ NumFOCUS Slack と週次ミーティングへのアクセスを希望するコ�
 
 ## 名誉会員
 
+- AJ Khan
 - Cheuk Ting Ho
 - Jelena Milosevic
 - Matthew Rocklin
