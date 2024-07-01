@@ -1,9 +1,7 @@
 # NumFOCUS Board of Directors & Technical Steering Committee Elections
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
-
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <p>
@@ -92,6 +90,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://quantstack.net"><img src="https://avatars.githubusercontent.com/u/2397974?v=4?s=100" width="100px;" alt="Sylvain Corlay"/><br /><sub><b>Sylvain Corlay</b></sub></a><br /><a href="#ideas-SylvainCorlay" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jaspajjr"><img src="https://avatars.githubusercontent.com/u/5813503?v=4?s=100" width="100px;" alt="John Carney"/><br /><sub><b>John Carney</b></sub></a><br /><a href="#ideas-jaspajjr" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://cheuk.dev"><img src="https://avatars.githubusercontent.com/u/28761465?v=4?s=100" width="100px;" alt="Cheuk Ting Ho"/><br /><sub><b>Cheuk Ting Ho</b></sub></a><br /><a href="#mentoring-Cheukting" title="Mentoring">🧑‍🏫</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ak9999"><img src="https://avatars.githubusercontent.com/u/9996640?v=4?s=100" width="100px;" alt="Abdullah "AJ" Khan"/><br /><sub><b>Abdullah "AJ" Khan</b></sub></a><br /><a href="#ideas-ak9999" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>
