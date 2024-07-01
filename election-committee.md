@@ -10,7 +10,6 @@ Community members can request access to join the Slack and weekly meetings by re
 
 ## Current members
 
-- AJ Khan
 - Juanita Gomez
 - Lars Grüter
 - Pavithra Eswaramoorthy
