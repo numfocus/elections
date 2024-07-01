@@ -22,6 +22,7 @@ Community members can request access to join the Slack and weekly meetings by re
 
 ## Emeritus members
 
+- AJ Khan
 - Cheuk Ting Ho
 - Jelena Milosevic
 - Matthew Rocklin
