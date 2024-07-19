@@ -46,9 +46,12 @@ The current NumFOCUS Board will review and confirm nominees according to the fol
   - If the nominated individual has/had a reported CoC violation, they can be removed from the nomination list by the Board depending on the severity of the report
   - If the person nominating someone else has/had a reported CoC violation, the nominated individual (who does not any reports) can be asked to self-nominate instead
 - Plausible interest in NumFOCUS and the surrounding community
-  - If the individual's qualifications and interests are unclear, Board can request further information to ensure the voting community has the relevant information. Board can not remove individuals from the final list for this reason.
+  - If the individual's qualifications and interests are unclear, Board can request further information to ensure the voting community has the relevant information.
+    Board can not remove individuals from the final list for this reason.
 - Election committee members running in the election:
-  - Board can decide on whether election committee members can be in the final list of nominees. If yes, the committee will ensure the level of visibility for this member within the committee is the same as all other nominees. If no, the individual can choose between the election committee and being nominated in the election.
+  - Board can decide on whether election committee members can be in the final list of nominees.
+    If yes, the committee will ensure the level of visibility for this member within the committee is the same as all other nominees.
+    If no, the individual can choose between the election committee and being nominated in the election.
 
 ### Publish nominees
 
