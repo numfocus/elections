@@ -43,8 +43,8 @@ The current NumFOCUS Board will review and confirm nominees according to the fol
   - Minimum legal age in the residing county: Underage individuals can be removed from the final list of nominees.
   - Term limits for previous Board members.
 - Past actions must comply with NumFocus’ Code of Conduct (CoC). Specifically:
-  - If the nominated individual has/had a reported CoC violation, they can be removed from the nomination list by the Board depending on the severity of the report
-  - If the person nominating someone else has/had a reported CoC violation, the nominated individual (who does not any reports) can be asked to self-nominate instead
+  - If the nominated individual has/had a reported CoC violation, they can be removed from the nomination list by the Board depending on the severity of the report.
+  - If the person nominating someone else has/had a reported CoC violation, the nominated individual (who does not any reports) can be asked to self-nominate instead.
 - Plausible interest in NumFOCUS and the surrounding community
   - If the individual's qualifications and interests are unclear, Board can request further information to ensure the voting community has the relevant information.
     Board can not remove individuals from the final list for this reason.
