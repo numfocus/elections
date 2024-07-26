@@ -26,7 +26,7 @@ These messages will be published by NumFOCUS in the following spaces:
 ### Solicit nominees
 
 Anyone can nominate themselves or someone else to run for one of the board positions,
-i.e., either the Administrative Board or the Technical Steering Committee, based on their experience and interest by [filling the nomination form][nomination-form].
+i.e., either the Administrative Board or the Technical Steering Committee, based on their experience and interest by filling a nomination form.
 
 We welcome and encourage participation from people of all backgrounds, identities, and geographic diversity.
 
@@ -37,13 +37,21 @@ Nominees for the **Administrative Board** should be members of the NumFOCUS comm
 
 ### Review nominees
 
-The Election committee will review and confirm nominees according to the following criteria:
+The current NumFOCUS Board will review and confirm nominees according to the following criteria:
 
-- Past actions should not go against NumFocus’s Code of Conduct
-- Minimum legal age in the residing county
+- Eligibility per bylaw requirements and reasonable extensions, including:
+  - Minimum legal age in the residing county: Underage individuals can be removed from the final list of nominees.
+  - Term limits for previous Board members.
+- Past actions must comply with NumFocus’ Code of Conduct (CoC). Specifically:
+  - If the nominated individual has/had a reported CoC violation, they can be removed from the nomination list by the Board depending on the severity of the report.
+  - If the person nominating someone else has/had a reported CoC violation, the nominated individual (who does not any reports) can be asked to self-nominate instead.
 - Plausible interest in NumFOCUS and the surrounding community
-
-(More details will be added soon)
+  - If the individual's qualifications and interests are unclear, Board can request further information to ensure the voting community has the relevant information.
+    Board can not remove individuals from the final list for this reason.
+- Election committee members running in the election:
+  - Board can decide on whether election committee members can be in the final list of nominees.
+    If yes, the committee will ensure the level of visibility for this member within the committee is the same as all other nominees.
+    If no, the individual can choose between the election committee and being nominated in the election.
 
 ### Publish nominees
 
