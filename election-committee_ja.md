@@ -15,6 +15,7 @@ NumFOCUS Slack と週次ミーティングへのアクセスを希望するコ�
 - Pavithra Eswaramoorthy
 - Pramod Misra
 - 小山哲央
+- Kalyan Prasad
 
 ## 助言メンバー
 
