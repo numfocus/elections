@@ -14,6 +14,7 @@ Community members can request access to join the Slack and weekly meetings by re
 - Lars Grüter
 - Pavithra Eswaramoorthy
 - Tetsuo Koyama
+- Kalyan Prasad
 
 ## Advising members
 
