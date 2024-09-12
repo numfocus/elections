@@ -1,10 +1,6 @@
 # NumFOCUS Board of Directors & Technical Steering Committee Elections
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
-
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+![All Contributors](https://img.shields.io/github/all-contributors/numfocus/elections?color=ee8449)
 
 <p>
     <b>English</b> |
