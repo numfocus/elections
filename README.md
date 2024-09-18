@@ -41,13 +41,13 @@ The former group deals with higher-level strategic and administrative decisions,
 The election process will involve the following phases.
 The dates are tentative and are subject to change depending on the community engagement during the nomination and voting phases.
 
-| Election phases                                                       | Tentative dates               |
-| --------------------------------------------------------------------- | ----------------------------- |
-| Nomination period                                                     | June 14–July 5                |
-| Nominee application review (by election committee and NumFOCUS board) | July 5–July 12                |
-| Notify nominees and get confirmation                                  | Aug 12–Aug 21               |
-| Voting period                                                         | Aug 21– Sep 9                 |
-| Review election results (by NumFOCUS board)                           | Sep 9–Sep 23                  |
+| Election phases                                                       | Tentative dates                |
+| --------------------------------------------------------------------- | ------------------------------ |
+| Nomination period                                                     | June 14–July 5                 |
+| Nominee application review (by election committee and NumFOCUS board) | July 5–July 12                 |
+| Notify nominees and get confirmation                                  | Aug 12–Aug 21                  |
+| Voting period                                                         | Aug 21– Sep 9                  |
+| Review election results (by NumFOCUS board)                           | Sep 9–Sep 23                   |
 | Publish results announcing new board members                          | Late September / Early October |
 
 ## Contents 🗂️
