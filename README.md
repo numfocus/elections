@@ -41,10 +41,10 @@ The dates are tentative and are subject to change depending on the community eng
 | --------------------------------------------------------------------- | ------------------------------ |
 | Nomination period                                                     | June 14–July 5                 |
 | Nominee application review (by election committee and NumFOCUS board) | July 5–July 12                 |
-| Notify nominees and get confirmation                                  | Aug 12–Aug 21                  |
-| Voting period                                                         | Aug 21– Sep 9                  |
-| Review election results (by NumFOCUS board)                           | Sep 9–Sep 23                   |
-| Publish results announcing new board members                          | Late September / Early October |
+| Voter registration                                   | Sep 20–Oct 4                  |
+| Voting period                                                         | Oct 7– Oct 25                  |
+| Review election results (by NumFOCUS board)                           | Oct 26–Nov 8                   |
+| Publish results announcing new board members                          | Middle Nov |
 
 ## Contents 🗂️
 
