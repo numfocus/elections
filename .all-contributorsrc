@@ -152,6 +152,15 @@
         "ideas",
         "doc"
       ]
+    },
+    {
+      "login": "lynn4life",
+      "name": "Lynn Brubaker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29387501?v=4",
+      "profile": "https://github.com/lynn4life",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
