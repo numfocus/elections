@@ -4,7 +4,7 @@
 
 
 
-| Alejandro Saucedo |
+## Alejandro Saucedo |
 Director of Engineering, Science & Product at Zalando
 Scientific Advisor at The Institute for Ethical AI
 AI Expert for the United Nations Advisory Body on AI
@@ -19,7 +19,8 @@ Beyond advisory roles, Alejandro is currently the Director of Engineering, Scien
 
 
 
-| Alexandre Chabot-Leclerc |
+
+## Alexandre Chabot-Leclerc |
 Enthought |
 I just completed my third and last year as the SciPy conference co-chair and was tutorials co-chair for SciPy 2017–2020. I led the return of SciPy as an in-person conference and through the tensions that led to SciPy leaving Austin, TX. I believes a clear purpose can make a community stronger.
 
@@ -29,13 +30,15 @@ I'm passionate about transforming people and their work. I strongly believes in 
 
 
 
-| Andy Terrel |
+
+## Andy Terrel |
 NVIDIA |
 Andy is a leader in the Python open data science community (PyData) with over 1000 citations of his academic articles. His has worked on numerous foundational systems including the Dask distributed computing framework, the Conda package manager, and the SymPy symbolic computing library. He has also been a leader at several companies in the space including Anaconda and NVIDIA. |
 
 
 
-| Bernice Omiunu |
+
+## Bernice Omiunu |
 Ex Chapter Lead | PyData
 Alumni Academy of Women Entrepreneur (AWE) Alumni US Exchange Program Alumni
 YALI Regional Leadership Center, West Africa
@@ -54,7 +57,8 @@ Bernice’s extensive experience includes serving as a core developer and mainta
 
 
 
-| Corey J. Gallon |
+
+## Corey J. Gallon |
 PwC, Loyola University Chicago, GPT-Engineer |
 I'm a massive nerd. Full stop. I've built my career at the intersection of technology and business, and am deeply nerdy in my pursuits in both domains. I'm a passionate data scientist, AI enthusiast and business leader. I find it a bit awkward and uncomfortable to speak about my credentials, but a few relevant details of the past several years are probably worth highlighting in this context.
 
@@ -76,7 +80,8 @@ I'm so very excited at the prospect of contributing to an organization that I ha
 
 
 
-| Daniel Gerlanc | 
+
+## Daniel Gerlanc | 
 dottxt, Inc. |
 Dan has worked in software for 20+ years, been an contributor to many open source packages in both R and Python, and led many teams that combine commercial software development with open source. He has worked with open source in both an academic and industry capacity, for example, in his work creating the bootES R package and a peer reviewed journal article describing the use of the package.
 
@@ -84,13 +89,15 @@ He is currently the CTO of dottxt, Inc., an early-stage company focused on struc
 
 
 
-| David R. Palmer |
+
+## David R. Palmer |
 LDP Memorial Scholarship Fund Inc (NON-PROFIT), Twenty-One Parcels Limitada, Palmer Asset Management LLC, and Harvester Capital Management LLC. |
 My programming and technological business acumen dates back to the early 1990's. During that time I created an application used by floor traders on multiples trading floors, and helped design the first trading application for auto-quoting with Bridge Data on the floor of the American Stock Exchange. I have successfully run businesses since that time. Whether I was running my firm, which at its peak had one hundred employees in two countries and a programming dev team of five, or simply working by myself. Throughout all I have never turned my back on what one individual can do with a little time and some software. To this day I continue to program, python of course with machine learning, and have been the recipient of the largesse of open source and find myself desperately wanting to give back by giving of my time and experience. While I might be a good choice for the technical role, I am leaning towards the administrative for this round of nominations. Thank you for your time. |
 
 
 
-| ​​Francesca van Doorn | 
+
+## Francesca van Doorn | 
 Windward Fund, National Network of Fiscal Sponsors, Fiscal Sponsor Hub |
 While my work in conservation and the environment is adjacent to NumFOCUS’ mission, the foundation of the organization, supporting open source software to drive impact and innovation, is crucial to progress across fields. Solving the climate crisis requires transparency; collaboration across sectors, geographies, and cultures; and replicability and scalability – all of which are core tenets of the open source community.
 
@@ -115,13 +122,15 @@ I would bring significant experience with fiscal sponsors to the role. I have wo
 
 
 
-| HARSHA BYADARAHALLI MAHESH |
+
+## HARSHA BYADARAHALLI MAHESH |
 I am a Senior Software Engineer at JuliaHub, in the past, I’ve been a mentor for Numfocus Google Summer of Codes project and I have also served as NumFOCUS Champions Circle Committee member for the year 2021 and 2022.I’ve been with JuliaHub (Formerly JuliaComputing Pvt Ltd) since past 9 years, JuliaHub has been heavily involved with Numfocus affiliated projects (Current and past) such as Julia, FluxML and SciML. This inspired me to make contributions to these projects early on in my career. I’ve recently completed CopyrightX course from HarvardX in 2023, a program conducted by Harvard Law school, this has given me immense knowledge in the field of Copyright and brief overview on how copyrights and patents work in real world. |
 I am a Senior Software Engineer at JuliaHub, in the past, I’ve been a mentor for Numfocus Google Summer of Codes project and I have also served as NumFOCUS Champions Circle Committee member for the year 2021 and 2022.I’ve been with JuliaHub (Formerly JuliaComputing Pvt Ltd) since past 9 years, JuliaHub has been heavily involved with Numfocus affiliated projects (Current and past) such as Julia, FluxML and SciML. This inspired me to make contributions to these projects early on in my career. I’ve recently completed CopyrightX course from HarvardX in 2023, a program conducted by Harvard Law school, this has given me immense knowledge in the field of Copyright and brief overview on how copyrights and patents work in real world. The combination of all the experiences and knowledge gained over the years, will definitely help me in steering Numfocus towards sustainability and success if given an opportunity in Numfocus Administrative Board. |
 
 
 
-| Henry Senyondo |
+
+## Henry Senyondo |
 Google Summer of Code Organization Admin |
 My dedication to open-source collaboration and scientific research has been a cornerstone of my career. Through my work with organizations such as The Carpentries, the Journal of Open Source Software (JOSS), rOpenSci, and Frictionless Data, I have contributed to community-driven educational programs and promoted open practices in research. As a Google Summer of Code administrator for NumFOCUS and the SQL lesson maintainer for The Carpentries, I’ve actively supported open-source education and helped mentor the next generation of tech professionals.
 
@@ -129,13 +138,15 @@ Driven by a shared vision of fostering an inclusive, innovative scientific commu
 
 
 
-| James A. Bednar |
+
+## James A. Bednar |
 Anaconda, Inc., and HoloViz.org |
 I'm deeply honored to have been nominated to serve on the NumFocus Board. I've been committed to open source for the past 35 years, originally as a grad student and professor, where I taught courses covering open source and ensured that all of our research code was made freely available. Only a few people ever actually used our academic code, but now that I and some of my former students are in industry and able to employ a whole team of developers, we've been able to develop and maintain powerful libraries at a much larger scale using corporate and government funding. The tools in the NumFocus-sponsored HoloViz project are now downloaded millions of times per month and used extensively across scientific and research areas and in both industry and universities. I hope to use my experience with running academic research centers and enterprise software development teams to further NumFocus's mission to benefit all of the users and developers of open source worldwide. |
 
 
 
-| Jesica Formoso |
+
+## Jesica Formoso |
 MetaDocencia | CONICET - National Scientific and Technical Research Council, Argentina |
 I am deeply committed to the open-source scientific community, actively participating as an organizer for the Buenos Aires chapter of R-Ladies. I also serve as Chair of the advisory board and Impact Measurement Coordinator at MetaDocencia, an organization focused on promoting Open Science in Latin America. In 2023, I contributed to the NumFOCUS DISC unconference, collaborating on a project to develop training for Latin American and African researchers on securing international funding, for which we are currently seeking funding, with plans for 2025.
 Additionally, I develop open educational resources focused on reproducible workflows for satellite image analysis as part of a NASA-funded project through MetaDocencia and 2i2c.
@@ -143,7 +154,8 @@ My motivation to volunteer on the NumFOCUS Board stems from my belief in the org
 
 
 
-| Julie Krugler Hollek |
+
+## Julie Krugler Hollek |
 SciPy Conference Co-Chair |
 Julie Hollek has been a long time user and champion of Scientific Python and the ecosystem. Most recently, she was the Director of Data Science at Mozilla where her teams heavily leveraged the SciPy stack. She managed a team of talented individual contributors and managers, setting strategic direction for the data science organization, and managed a budget covering both salaries and program spend.
 
@@ -153,13 +165,15 @@ Julie has experience in community organizing, having been a PyLadies SF organize
 
 
 
-| Justin Nguyen |
+
+## Justin Nguyen |
 The Home Depot |
 Nguyen is an accomplished leader with a strong background in AI, analytics, and data engineering. As the former Head of Data Engineering and Analytics at Chewy, he has improved the company’s operational efficiencies using AI and designed anti-fraud algorithms. He has demonstrated his thought leadership in the field with articles in multiple publications, peer-reviewed research papers, symposiums, and podcasts—including Chewy’s AI in Action podcast. In 2022, he was recognized in CDO Magazine’s “40 Under Forty Data Leaders.” With undergraduate and graduate degrees from the Georgia Institute of Technology, Nguyen previously was Senior Director and Head of Enterprise Data and AI at 7-Eleven. Most recently, he joined as the leader and Director of Enterprise Data and Analytics at The Home Depot. |
 
 
 
-| Kalyan Prasad |
+
+## Kalyan Prasad |
 Professional Affiliations:
 • Freelance Data & AI Scientist (Former Data Science & Analytics Manager)
 • Data Science and AI Mentor at Great Learning
@@ -188,7 +202,8 @@ Thank you for considering my nomination. I am excited about the opportunity to b
 
 
 
-| Luca Zammataro |
+
+## Luca Zammataro |
 MD Anderson Cancer Center Texas University |
 Luca Zammataro, in addition to being a data scientist, is particularly active in the administrative field of the LLC he founded. His passion lies in promoting open source as a sustainable business model, especially in clinical research areas where budgets are not particularly high. He firmly believes that an ethical business model, based on the free distribution of software infrastructure for hospitals and research centers, can significantly aid developing countries that need the same opportunities as richer countries in promptly diagnosing degenerative diseases and cancer.
 With over two decades of dedicated experience, Luca Zammataro brings a wealth of knowledge and a unique perspective. His expertise in pathology, molecular biology, bioinformatics, and immunoinformatics, particularly in the intersection of AI/ML and Medical Imaging, is unparalleled. He is an Institute Senior Research Scientist at the MD Anderson Cancer Center, with solid experience in Machine Learning and Bioinformatics, particularly in immune-oncology and immunoinformatics.
@@ -197,7 +212,8 @@ His work often involves developing and applying computational models to address 
 
 
 
-| Marysia Winkels |
+
+## Marysia Winkels |
 Cohere, PyData Amsterdam, CorrelAid NL, 510 |
 I am a passionate advocate for open-source scientific computing and have dedicated my efforts to building strong, inclusive communities around open source data science.
 
@@ -210,7 +226,8 @@ I have dedicated my efforts to fostering a robust PyData community. If elected t
 
 
 
-| Mridul Seth | 
+
+## Mridul Seth | 
 European Spallation Source ERIC (employer)
 NetworkX (Core Developer/Steering Council)
 Scientific Python(Community Manager team)
@@ -242,7 +259,8 @@ fun fact: SymPy was my first-ever open source contribution! Can't believe it's b
 
 
 
-| Sayantika Banik |
+
+## Sayantika Banik |
 PSF/DSF/PyLadies/R-Ladies/Data Visualisation Society/MIT/Indian School of business (ISB) |
 I am a data scientist, dive professional, strategist, artist, public speaker, and community builder, deeply committed to the open-source scientific community. My work has consistently focused on improving lives and lowering entry barriers through technology and creative solutions.
 
@@ -264,7 +282,8 @@ Eager to contribute and drive impact! |
 
 
 
-| Thomas Wiecki |
+
+## Thomas Wiecki |
 PyMC, PyMC Labs |
 Dedication to Open Source Scientific Community
 As a co-author of PyMC, a NumFOCUS-sponsored project, I have demonstrated a strong commitment to open source scientific software. I actively promote open source tools through speaking engagements, writing tutorials, and mentoring new contributors. My work involves collaborating with researchers from various disciplines to apply PyMC to real-world scientific problems, furthering the reach and impact of open source in science.
