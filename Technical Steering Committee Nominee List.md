@@ -3,7 +3,7 @@
 | Full Name | Affiliation | Statement |
 
 
-| Astha Puri |
+## Astha Puri |
 Senior Data Scientist at CVS Health.
 Founding board member of Women Who Do Data |
 Astha is a Senior Data Scientist at CVS Health, where she designs the recommendation engine for digital platforms to help customers find the right products and patients find the right health services and support. She also leads AI initiatives including generative AI and oversees the entire search portfolio across the app and web.
@@ -18,7 +18,8 @@ Astha has a master's in Analytics from University of Minnesota and a B.Tech in E
 
 
 
-| Eloisa Elias T. |
+
+## Eloisa Elias T. |
 I have been working closely with NumFOCUS since 2016, and I am a lead organizer for 6 inclusive data science communities. I am the founder of PyData Seattle meetup by NumFOCUS (since 2016), chair of PyLadies Seattle (since 2016), lead organizer of Seattle Spark + AI meetup (since 2022), a Women Techmakers Ambassador (since 2022), lead organizer of Google Developer Group Bellevue (since 2023), and Databricks Beacon (since 2024). |
 I believe that open source software is important to the advancement of humanity. I come from a very humble beginning, born and raised in under extreme poverty in an undeveloped area of Tampico, Mexico. It is my dream that open source software can be as well known and used as Microsoft Excel, so that a young child from the jungles of Mexico can have the same access to the same powerful software and tools used by the top technology organizations in a first world country.
 
@@ -35,7 +36,8 @@ In addition, I organize and host world class events for the open-source communit
 
 
 
-| Jacob Schreiber |
+
+## Jacob Schreiber |
 Currently
 Postdoctoral Researcher, Stanford University
 Editorial Board of Reviewers, JMLR
@@ -49,7 +51,8 @@ My view is that developing good software is a community effort and that this com
 
 
 
-| Juan Nunez-Iglesias |
+
+## Juan Nunez-Iglesias |
 Monash University, napari Steering Council, scikit-image Steering Council |
 I have been working in scientific open source since 2012, including serving on the steering council of two NumFOCUS sponsored projects, scikit-image and napari. And I have been thinking about open source sustainability for half that time, at least since co-organising a "Funding Open Source" birds-of-a-feather session at SciPy 2019. One of the great paradoxes of open source is that companies and universities will pay millions for proprietary software such as MATLAB, but will do nothing to support Scientific Python — where they are getting equally capable software *and* the source code, which gives them further capabilities and assurances. Instead, funding for scientific open source generally comes from various forms of "begging".
 
@@ -57,13 +60,15 @@ If I am elected to the technical steering committee, I will work to build mechan
 
 
 
-| Kyle Kelley |
+
+## Kyle Kelley |
 Anaconda, Jupyter, IPython |
 Kyle Kelley has been a long term Jupyter, IPython, and nteract maintainer. At Netflix he led the company towards embracing notebooks and python more fully. Within a personal capacity he has been involved in policy making both as an advocate and now the school board for Santa Cruz City Schools. |
 
 
 
-| Pragyansmita Nayak, Ph.D. |
+
+## Pragyansmita Nayak, Ph.D. |
 Latest information in https://www.linkedin.com/in/pragyansmita
 Affiliated with AFCEA, Northern Virginia Technology Council (NVTC), Data Community DC apart from various other professional organizations. |
 Dr. Pragyansmita Nayak is the Chief Data Scientist at Hitachi Vantara Federal (HVF). She explores the ""Art to the Science"" of solution architectures orchestrating data, APIs, algorithms and applications. She has over 25+ years of experience in software development and data science (Analytics, Machine Learning and Deep Learning). She has led multiple projects for different Federal Government agencies (DoD/Civilian) in the domain of Federal Accounting, Operational Analytics, Data Fabric, Object Storage, Metadata management, Records Management and Data Governance. 
@@ -74,13 +79,15 @@ For more information on Pragyan's professional experience, please visit her Link
 
 
 
-| Rashid |
+
+## Rashid |
 Numfocus DISC Committee Secretary, Mozilla Foundation OSC, Algorand Blockchain OSC. Pydata Contributor since 2021, Offchain Riyadh Chapter Contributor. |
 I’m deeply committed to the open source scientific community because I believe that shared knowledge is key to driving innovation. My involvement in the NumPy and SciPy communities, along with contributions to various open source projects, reflects my dedication to fostering a collaborative and inclusive environment. I’ve been actively engaged as the NumFOCUS DISC Committee Secretary and have contributed to the Mozilla Foundation OSC, Algorand Blockchain OSC, and the PyData community since 2021. Additionally, I’ve been involved with the Offchain Riyadh Chapter. While my contributions to NumFOCUS have mostly been through organizing and participating in events like sprints and workshops rather than direct technical work, I’ve focused on supporting and amplifying the efforts of others. I’m motivated to join the NumFOCUS Board to help shape its strategic direction and ensure continued support for open source contributors. I’m especially passionate about increasing diversity and inclusivity within the community, as I believe diverse perspectives are crucial for innovation. My experience at Enea, including strategic planning, financial management, and overseeing legal and compliance matters, along with my work with marketing and fundraising teams, has prepared me to contribute effectively to NumFOCUS governance. |
 
 
 
-| ​​Sanket Verma |
+
+## Sanket Verma |
 Zarr
 Scientific Python
 OSSCi
@@ -93,7 +100,9 @@ Working with Zarr has exposed me to the inner workings and intricacies of the OS
 Contributing to many projects within the Scientific Python ecosystem has taught me a great deal about taking the necessary steps to address issues. |
 
 
-| Sophia Yang |
+
+
+## Sophia Yang |
 Mistral AI |
 Sophia Yang is the Head of Developer Relations at Mistral AI, a leading open-source AI lab. In this role, she leads developer education, developer ecosystem partnerships, and community engagement. Deeply passionate about the open-source Python and AI community, she has contributed to numerous open-source projects and regularly speaking at events focused on open-source initiatives. She is committed to empower open-source community growth and learning.
 
@@ -101,7 +110,8 @@ She is also a strong advocate for NumFocus, having volunteered with the organiza
 
 
 
-| Sri Sri Perangur |
+
+## Sri Sri Perangur |
 AdKDD Data Since committee since 2019,
 Association for Computing Machinery speaker 2022
 Grace Hopper Data Science Committee 2019 and 2022,
@@ -117,7 +127,8 @@ Thank you for your consideration. |
 
 
 
-| Tetsuo Koyama | 
+
+## Tetsuo Koyama | 
 Developer team of PyVista, SciPy Conference tutorial chair, NumFOCUS election committee |
 I am a software engineer in Japan. I am interested in scientific computing and visualization with computer graphics. They are one of the main developer of [PyVista](https://github.com/orgs/pyvista/people) project. They are passionate about open source conference management and support, serving on the SciPy Conference management staff and volunteering on the NumFOCUS election committee.
 They are particularly interested in working with other Python ecosystems due to the need for PyVista projects and are thrilled to be able to contribute to the overall Scientific Python benefit.
@@ -125,14 +136,16 @@ There is something that I feel strongly about. That is that investment in open s
 
 
 
-| Vissarion Fysikopoulos |
+
+## Vissarion Fysikopoulos |
 Oracle (software engineer), National Kapodistrian University of Athens (affiliate researcher), GeomScale (org admin, maintainer and contributor) |
 The candidate has more than a decade of experience in research and development of algorithms in both academia and industry. His interests lie at the intersection of geometric computing, optimization, statistical computing, mathematical software and algorithm engineering. He holds a PhD in computer science, more than 20 scientific publications in top rank journals and conferences, more than 40 talks in international conferences, seminars with invitation and technological events.
 Co-author, maintainer and contributor in several open-source projects (including Boost C++ libraries and MySQL). Co-funder and main contributor of GeomScale open source organization affiliated with NumFOCUS. Editor in Journal of Open Source software. Admin and mentor of GeomScale in its participation to Google Summer of code program (5 years). |
 
 
 
-| Wolf Vollprecht |
+
+## Wolf Vollprecht |
 prefix.dev, conda-forge, conda |
 I have been involved with many open source projects, as hobbies or professionally and have always been driven by a (scientific) curiosity and the ability to have an outsized impact through open source. Since I believe in the outsized impact by open source, open science and open knowledge, I also believe that we should allocate funds as efficiently as possible to maximize this impact.
 
