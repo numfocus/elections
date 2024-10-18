@@ -9,7 +9,7 @@ repos:
     rev: v2.3.0
     hooks:
       - id: codespell
-        args: ["*.md"]
+        args: ["*.md", "-L", "BENG"]
         additional_dependencies: ["tomli"]
 
   - repo: https://github.com/pre-commit/pre-commit-hooks
