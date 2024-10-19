@@ -74,9 +74,9 @@ I’m deeply committed to the open source scientific community because I believe
 
 ## Sanket Verma |
 
-Zarr
-Scientific Python
-OSSCi
+Zarr,
+Scientific Python,
+OSSCi,
 PyData Delhi |
 I have been involved with the NumFOCUS and PyData community for the last eight years. I have been super active with the community building and fostering of PyData culture throughout the Indian region. I'm currently leading the efforts over at PyData Delhi. PyData Delhi organised the first PyData conference in India in 2017, which led to the foundation of many new PyData chapters throughout the country. Since 2017, I have co-chaired 6 PyData conferences (Delhi and Global) and organised 40+ meet-ups in collaboration with startups and organisations throughout Delhi-NCR — helping raise over $300k+ for projects under NumFOCUS. I have been involved with NumFOCUS for an extended period and was awarded the NumFOCUS Community Leadership Award in 2022 for my efforts.
 
