@@ -171,6 +171,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "MSanKeys963",
+      "name": "Sanket Verma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20305658?v=4",
+      "profile": "https://msankeys963.github.io/blog",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
