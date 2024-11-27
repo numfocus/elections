@@ -45,7 +45,7 @@ The dates are tentative and are subject to change depending on the community eng
 | Voting period                                                         | Oct 18–Nov 7    |
 | Review & weight election results (by Committee & NumFOCUS board)      | Nov 7–Nov 21    |
 | Notify nominees about results                                         | Nov 18-19       |
-| Publish results announcing new board members                          | Nov 25          |
+| Publish results announcing new board members                          | Nov 27          |
 
 ## Contents 🗂️
 
