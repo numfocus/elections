@@ -10,8 +10,6 @@ Community members can request access to join the Slack and weekly meetings by re
 
 ## Current members
 
-- Juanita Gomez
-- Lars Grüter
 - Pavithra Eswaramoorthy
 - Tetsuo Koyama
 - Kalyan Prasad
@@ -19,13 +17,20 @@ Community members can request access to join the Slack and weekly meetings by re
 ## Advising members
 
 - James Powell
+- Katrina Riehl
 - Leah Silen
+
+## NumFOCUS Staff for execution support
+
+- Lynn Brubaker
 
 ## Emeritus members
 
 - AJ Khan
 - Cheuk Ting Ho
 - Jelena Milosevic
+- Juanita Gomez
+- Lars Grüter
 - Matthew Rocklin
 - Paul Ivanov
 - Pramod Misra
