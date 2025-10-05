@@ -27,7 +27,6 @@ A [volunteer-led Election Committee](election-committee.md) has been formed to p
 ### Open seats
 
 - Administrative Board - 3 positions
-- Technical Steering Committee - 7 positions
 
 The NumFOCUS governing Board consists of an Administrative Board and a Technical Steering Committee.
 The former group deals with higher-level strategic and administrative decisions, while the latter deals with more hands-on day-to-day technical decisions.
@@ -39,13 +38,14 @@ The dates are tentative and are subject to change depending on the community eng
 
 | Election phases                                                       | Tentative dates |
 | --------------------------------------------------------------------- | --------------- |
-| Nomination period                                                     | June 14–July 5  |
-| Nominee application review (by election committee and NumFOCUS board) | July 5–July 12  |
-| Voter registration                                                    | Sep 20–Oct 11   |
-| Voting period                                                         | Oct 18–Nov 7    |
-| Review & weight election results (by Committee & NumFOCUS board)      | Nov 7–Nov 21    |
-| Notify nominees about results                                         | Nov 18-19       |
-| Publish results announcing new board members                          | Nov 27          |
+| Nomination period                                                     | Sep 29–Oct 19  |
+| Voter registration                                                    | Sep 29–Oct 19   |
+| Nominee application review (by election committee and NumFOCUS board) | Oct 20–Oct 26  |
+| Send and collect nominee acceptance and application form              | Oct 27-Nov 2   |
+| Voting period                                                         | Nov 3–Nov 23    |
+| Review & weight election results (by Committee & NumFOCUS board)      | Nov 23–Nov 30    |
+| Notify nominees about results                                         | Dec 1      |
+| Publish results announcing new board members                          | Dec 15          |
 
 ## Contents 🗂️
 
