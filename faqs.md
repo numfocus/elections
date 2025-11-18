@@ -9,3 +9,6 @@ This GitHub repository and issue tracker will have all real-time activities.
 ## Can Election Committee members also nominate themselves?
 
 Yes they can.
+
+## How can I contact the Election Committee?
+Email electioncommittee@numfocus.org
