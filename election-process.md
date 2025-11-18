@@ -1,88 +1,73 @@
-> [!WARNING]
-> In development, this document will be updated during the course of the first election.
+# NumFOCUS Board of Directors Election Process
 
-# Election process
+NumFOCUS is a community-led organization, and the election of the Board of Directors reflects this core principle. Each election cycle provides an opportunity for individuals across the NumFOCUS ecosystem to participate directly in the governance of the organization—by nominating candidates, standing for election, or casting votes.
 
-At a high-level, the elections will involve a nomination phase followed by voting.
-This page documents the details and processes of these stages.
+This page provides an overview of how the NumFOCUS Board election is administered.
 
-## Communication
+---
 
-The GitHub repository will host all election-related documentation for the community, including the processes, nomination/voting criteria, election results, committee workflows, etc.
-The Election Committee will coordinate tasks through issues on the GitHub repos, where any community member can share feedback and request any additional information.
+## Election Oversight and Administration
 
-The committee will draft messages to communicate the call for nominations, voting periods, and more, to reach the broader community.
+To ensure a structured, transparent, and fair process, the NumFOCUS Board charters a volunteer-led **Election Committee** to plan and execute each election cycle. The Committee is responsible for administering the nomination, review, ballot formation, and voting procedures in an unbiased and inclusive manner. The NumFOCUS Board maintains oversight of the Committee’s work and provides final approval of procedures, nominees, and election results.
 
-These messages will be published by NumFOCUS in the following spaces:
+Election Committee members are volunteers drawn from across the NumFOCUS community. Their work is guided by the organization’s core values:
 
-- Mailing lists
-- Newsletter
-- Social media
-- NumFOCUS Slack
-- Relevant community spaces like specific Discord/Discourse/Slack groups
+- **Inclusivity** – Building a welcoming, friendly community  
+- **Transparency** – Fostering collaboration through open access  
+- **Curiosity** – Encouraging learning and scientific inquiry  
+- **Collaboration** – Bringing together diverse voices for stronger ideas  
 
-## Nominations
+The Committee operates under a formal charter approved by the NumFOCUS Board.
 
-### Solicit nominees
+---
 
-Anyone can nominate themselves or someone else to run for one of the board positions,
-i.e., either the Administrative Board or the Technical Steering Committee, based on their experience and interest by filling a nomination form.
+## Phases of the Election
 
-We welcome and encourage participation from people of all backgrounds, identities, and geographic diversity.
+While specific dates vary each year, the NumFOCUS Board election follows a consistent sequence of phases:
 
-Nominees for the **Technical Steering Committee** should be contributors or members of a NumFOCUS Sponsored or Affiliated Project community.
-They should have experience in areas such as governance or community leadership, budget creation and management, infrastructure, and strategic planning.
+### **1. Nomination Period**  
+The election opens with a public call for nominations. Any community member may nominate themselves or someone else. Nominees are invited to complete an application designed to gather information about their experience, interests, and motivations.
 
-Nominees for the **Administrative Board** should be members of the NumFOCUS community with experience in one or more of the following areas: organizational or corporate finance, strategic planning, legal oversight, or marketing and sales.
+### **2. Nominee Application Review and Ballot Formation**  
+The Election Committee reviews all eligible applications using a standardized rubric to ensure fairness, consistency, and alignment with NumFOCUS values. A blind review process is used for portions of the evaluation prior to Board consideration.  
+After completing its review, the Committee makes ballot recommendations to the NumFOCUS Board, which approves the final slate of candidates.
 
-### Review nominees
+### **3. Voter Registration**  
+Eligible voters register individually. Eligible groups include:
 
-The current NumFOCUS Board will review and confirm nominees according to the following criteria:
+- Sponsored Projects  
+- Affiliated Projects  
+- Committee Officers  
+- Event Chairs  
+- Administrative Board  
 
-- Eligibility per bylaw requirements and reasonable extensions, including:
-  - Minimum legal age in the residing county: Underage individuals can be removed from the final list of nominees.
-  - Term limits for previous Board members.
-- Past actions must comply with NumFocus’ Code of Conduct (CoC). Specifically:
-  - If the nominated individual has/had a reported CoC violation, they can be removed from the nomination list by the Board depending on the severity of the report.
-  - If the person nominating someone else has/had a reported CoC violation, the nominated individual (who does not any reports) can be asked to self-nominate instead.
-- Plausible interest in NumFOCUS and the surrounding community
-  - If the individual's qualifications and interests are unclear, Board can request further information to ensure the voting community has the relevant information.
-    Board can not remove individuals from the final list for this reason.
-- Election committee members running in the election:
-  - Board can decide on whether election committee members can be in the final list of nominees.
-    If yes, the committee will ensure the level of visibility for this member within the committee is the same as all other nominees.
-    If no, the individual can choose between the election committee and being nominated in the election.
+Votes are **weighted** to reflect different stakeholder groups. For example, Sponsored Projects receive three total votes, divided proportionally among all registered representatives from that project. This ensures consistent vote allocation while allowing multiple individuals to participate.
 
-### Publish nominees
+### **4. Voting Period**  
+Voting is conducted through **OpaVote**, a secure platform used for community elections. Because weighted voting assigns fractional values to ballots, full voter anonymity is not technically possible; however, access to raw voting data is restricted to members of the Election Committee and a small number of NumFOCUS staff for the sole purpose of calculating and verifying results.
 
-After screening, the election committee will publish the list of nominees and announce the beginning of the voting period.
+### **5. Review and Validation**  
+The Election Committee compiles and verifies results, which are then reviewed and validated by the NumFOCUS Board.
 
-(More details will be added soon)
+### **6. Announcement of Results**  
+Once validated, results are communicated to nominees and published publicly. Elected Board members serve a two-year term, with the option to renew for an additional two years.
 
-## Voting
+---
 
-### Voting members
+## Transparency and Documentation
 
-Tentative:
+NumFOCUS is committed to transparency in its governance processes. Updates about the election cycle are shared through official NumFOCUS communication channels, including blog posts, mailing lists, and community forums.
 
-- NumFOCUS member projects: 3 votes (vote allocation is up to the project)
-- NumFOCUS affiliated projects: 1 vote
-- NumFOCUS committee officers: 1 vote
-- NumFOCUS event Chairs: 1 vote
+The Election Committee regularly refines and improves processes—such as updating nominee questionnaires, enhancing review rubrics, and clarifying documentation—to ensure that each election supports fairness, accessibility, and informed participation.
 
-(More details will be added soon)
+---
 
-### Voting tools
+## Continuous Improvement
 
-We plan to use [OpaVote][opavote].
+NumFOCUS periodically reviews its governance structures, including the Board election process, to ensure they continue to meet the needs of the community and reflect best practices in nonprofit governance. Community feedback and involvement play an important role in these ongoing improvements.
 
-(More details will be added soon)
+---
 
-## Results
+## Acknowledgments
 
-(More details will be added soon)
-
-<!-- Links -->
-
-[nomination-form]: https://forms.gle/zNYGSYpoGQPZgQTZ8
-[opavote]: https://opavote.com
+The election process is made possible through the efforts of the volunteer members of the Election Committee, the NumFOCUS Board of Directors, and the staff who support election administration. NumFOCUS extends its thanks to everyone who nominates, applies, votes, and participates in strengthening community governance.
