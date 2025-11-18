@@ -1,4 +1,4 @@
-# Election Committee
+# 2025 Election Committee
 
 ## Communication channels
 
@@ -7,7 +7,7 @@
 
 Community members can request access to join the Slack and weekly meetings by reaching out to any committee member. :)
 
-## Current voting members
+## Voting members
 
 - Alan Lujan,
 - Ianna Osborne,
