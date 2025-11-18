@@ -1,51 +1,34 @@
-# NumFOCUS Board of Directors & Technical Steering Committee Elections
+# NumFOCUS Board of Directors Elections
 
-![All Contributors](https://img.shields.io/github/all-contributors/numfocus/elections?color=ee8449)
 
-<p>
-    <b>English</b> |
-    <a href="https://github.com/numfocus/elections/blob/main/README_ja.md">日本語</a> |
-</p>
-
-NumFOCUS has a Board of Directors (composed of an Administrative Board and a Technical Steering Committee) who provide guidance, oversight, and support for various NumFOCUS-led initiatives. [^1]
+NumFOCUS has a Board of Directors who provide guidance, oversight, and support for various NumFOCUS-led initiatives.
 Members of these groups have fixed term limits.
 As members complete their term or step-down, new members need to be elected to the board.
 Historically, there has not been a formal process for recruiting and admitting new board members.
 
 A [volunteer-led Election Committee](election-committee.md) has been formed to plan and execute elections for the Board of Directors and Technical Steering Committee in a fair, unbiased, and transparent manner.
 
-[^1]: [Who is the board & how does the board serve NumFOCUS?](https://numfocus.medium.com/who-is-the-board-how-does-the-board-serve-numfocus-b109d0c0dd17)
-
-> [!NOTE]
-> This is the first NumFOCUS board election and the election committee is a newly formed team.
-> We’ll create and document the procedural details in this repository as we conduct the election.
-> You can track ongoing activities on the Issue Tracker, and share your thoughts.
-> We’d love input from the community in all aspects of this election.
-
 ## Upcoming election 🗳️
 
-### Open seats
+### 2025 Open seats
 
 - Administrative Board - 3 positions
-- Technical Steering Committee - 7 positions
-
-The NumFOCUS governing Board consists of an Administrative Board and a Technical Steering Committee.
-The former group deals with higher-level strategic and administrative decisions, while the latter deals with more hands-on day-to-day technical decisions.
 
 ### Process and timeline
 
 The election process will involve the following phases.
 The dates are tentative and are subject to change depending on the community engagement during the nomination and voting phases.
 
-| Election phases                                                       | Tentative dates |
+| Election phases                                                       | 2025 dates |
 | --------------------------------------------------------------------- | --------------- |
-| Nomination period                                                     | June 14–July 5  |
-| Nominee application review (by election committee and NumFOCUS board) | July 5–July 12  |
-| Voter registration                                                    | Sep 20–Oct 11   |
-| Voting period                                                         | Oct 18–Nov 7    |
-| Review & weight election results (by Committee & NumFOCUS board)      | Nov 7–Nov 21    |
-| Notify nominees about results                                         | Nov 18-19       |
-| Publish results announcing new board members                          | Nov 27          |
+| Nomination period                                                     | Sep 29–Oct 19   |
+| Voter registration                                                    | Oct 22–Nov 4    |
+| Nominee Questionnaire                                                 | Oct 21–Oct 28   |
+| Nominee Questionnaire review and ballot selection                     | Oct 29-Nov 5    |
+| Voting period                                                         | Nov 7–Nov 24    |
+| Review & weight election results                                      | Nov 25–Dec 2    |
+| Notify nominees about results                                         | Dec 5           |
+| Publish results announcing new board members                          | Dec 15          |
 
 ## Contents 🗂️
 
@@ -62,8 +45,6 @@ This repository hosts documents related to NumFOCUS board elections, and ongoing
 - [Election Committee Charter](https://docs.google.com/document/d/1c8snA2_CtJcJew0S0l4gxdpj2OXpQQkJ_j3l2kI2fDs/edit?usp=sharing)
 
 <hr>
-
-_If you are interested in **joining the election committee** and have at least 2 hours/week to dedicate to this effort for a few months, please reach out to the team at electioncommittee@numfocus.org. Note that all community members can share feedback and thoughts on the activities. The committee is responsible for executing the election, which requires some steady time commitment._
 
 ## Contributors ✨
 
